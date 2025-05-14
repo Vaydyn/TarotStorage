@@ -2,7 +2,7 @@
   "Major": [
     {
       "name": "The Fool",
-      "image": "https://i.ibb.co/8nWXJgWP/The-Fool.png",
+      "image": "https://i.ibb.co/SwQbtHwX/The-Fool-LOST.jpg",
       "represents": {
         "planet": "Uranus",
         "zodiac": "",
@@ -21,7 +21,7 @@
     },
     {
       "name": "The Magician",
-      "image": "https://i.ibb.co/vxsgxRRn/The-Magician.png",
+      "image": "https://i.ibb.co/93G2zbpk/The-Magician-LOST.jpg",
       "represents": {
         "planet": "Mercury",
         "zodiac": "",
@@ -40,7 +40,7 @@
     },
     {
       "name": "The High Priestess",
-      "image": "https://i.ibb.co/NgMgntb1/High-Priestess.png",
+      "image": "https://i.ibb.co/5Xk26Dt8/The-High-Priestess-LOST.jpg",
       "represents": {
         "planet": "Moon",
         "zodiac": "",
@@ -59,7 +59,7 @@
     },
     {
       "name": "The Empress",
-      "image": "https://i.ibb.co/Vc1PTyDD/The-Empress.png",
+      "image": "https://i.ibb.co/nqZRC3bq/The-Empress-LOST.jpg",
       "represents": {
         "planet": "Venus",
         "zodiac": "",
@@ -78,7 +78,7 @@
     },
     {
       "name": "The Emperor",
-      "image": "https://i.ibb.co/CXcT4q7/The-Emperor.png",
+      "image": "https://i.ibb.co/Dgbzkdfj/The-Emperor.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Aries",
@@ -97,7 +97,7 @@
     },
     {
       "name": "The Hierophant",
-      "image": "https://i.ibb.co/mVzbStRS/Hierophant.png",
+      "image": "https://i.ibb.co/NdvyDwjX/Heirophant-Man.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Taurus",
@@ -116,7 +116,7 @@
     },
     {
       "name": "The Lovers",
-      "image": "https://i.ibb.co/kFswbcn/The-Lovers.png",
+      "image": "https://i.ibb.co/4ZTY5Y9j/The-Lovers.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Gemini",
@@ -135,7 +135,7 @@
     },
     {
       "name": "The Chariot",
-      "image": "https://i.ibb.co/pqMfTR4/The-Charriot.png",
+      "image": "https://i.ibb.co/YYmsC8R/The-Chariot.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Cancer",
@@ -154,7 +154,7 @@
     },
     {
       "name": "Strength",
-      "image": "https://i.ibb.co/9kcM2zXB/Strength.png",
+      "image": "https://i.ibb.co/DDsnK2r2/Strength-LOST.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Leo",
@@ -173,7 +173,7 @@
     },
     {
       "name": "The Hermit",
-      "image": "https://i.ibb.co/vvs4K0qy/The-Hermit.png",
+      "image": "https://i.ibb.co/ZR3Ly2Sb/The-Hermit.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Virgo",
@@ -192,7 +192,7 @@
     },
     {
       "name": "Wheel of Fortune",
-      "image": "https://i.ibb.co/HTRKLG10/The-Wheel2.png",
+      "image": "https://i.ibb.co/nxRqPYT/Wheel-of-Fortune-LOST.jpg",
       "represents": {
         "planet": "Jupiter",
         "zodiac": "",
@@ -211,7 +211,7 @@
     },
     {
       "name": "Justice",
-      "image": "https://i.ibb.co/wF5NFdbY/Justice.png",
+      "image": "https://i.ibb.co/k2kp2f16/Justice.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Libra",
@@ -230,7 +230,7 @@
     },
     {
       "name": "The Hanged Man",
-      "image": "https://i.ibb.co/ch4vNJSJ/Hanged-Man.png",
+      "image": "https://i.ibb.co/Q7vYFkjB/The-Hanged-Man-LOST.jpg",
       "represents": {
         "planet": "Neptune",
         "zodiac": "",
@@ -249,7 +249,7 @@
     },
     {
       "name": "Death",
-      "image": "https://i.ibb.co/zTmCgnnL/Death.png",
+      "image": "https://i.ibb.co/DNtPcFf/Death-Rebirth.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Scorpio",
@@ -268,7 +268,7 @@
     },
     {
       "name": "Temperance",
-      "image": "https://i.ibb.co/Xf4zd47P/Temperance.png",
+      "image": "https://i.ibb.co/svCF88Df/Temperance.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Sagittarius",
@@ -287,7 +287,7 @@
     },
     {
       "name": "The Devil",
-      "image": "https://i.ibb.co/XrSKQR4G/The-Devil.png",
+      "image": "https://i.ibb.co/bMwzZfp8/Devil-2.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Capricorn",
@@ -306,7 +306,7 @@
     },
     {
       "name": "The Tower",
-      "image": "https://i.ibb.co/8DPdC7ZZ/The-Tower.png",
+      "image": "https://i.ibb.co/CDC2wgm/The-Tower-LOST.jpg",
       "represents": {
         "planet": "Mars",
         "zodiac": "",
@@ -325,7 +325,7 @@
     },
     {
       "name": "The Star",
-      "image": "https://i.ibb.co/NgMNNChv/The-Star.png",
+      "image": "https://i.ibb.co/67VvtLK8/The-Star.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Aquarius",
@@ -344,7 +344,7 @@
     },
     {
       "name": "The Moon",
-      "image": "https://i.ibb.co/FkcJSYpN/The-Moon.png",
+      "image": "https://i.ibb.co/4nXyWkrX/The-Moon-LOST.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Pisces",
@@ -363,7 +363,7 @@
     },
     {
       "name": "The Sun",
-      "image": "https://i.ibb.co/0pmZwBh6/The-Sun.png",
+      "image": "https://i.ibb.co/KxG3b25m/The-Sun.jpg",
       "represents": {
         "planet": "Sun",
         "zodiac": "",
@@ -382,7 +382,7 @@
     },
     {
       "name": "Judgement",
-      "image": "https://i.ibb.co/0RkQsgVR/Judgement.png",
+      "image": "https://i.ibb.co/zVcqyHV8/Judgement-Dante-LOST.jpg",
       "represents": {
         "planet": "Pluto",
         "zodiac": "",
@@ -401,7 +401,7 @@
     },
     {
       "name": "The World",
-      "image": "https://i.ibb.co/KpLNHyhS/the-world.png",
+      "image": "https://i.ibb.co/Q3qrwtSF/The-World-LOST.jpg",
       "represents": {
         "planet": "Saturn",
         "zodiac": "",
@@ -417,12 +417,221 @@
         "tags": "Incomplete tasks, delays, lack of closure, unfinished, disruption, postponement, fragmentation, disintegration",
         "description": "The World indicates unfinished business or delays in reaching your full potential."
       }
+    },
+    {
+      "name": "Strength",
+      "image": "https://i.ibb.co/kVwbT6XT/Strength.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Horizon",
+      "image": "https://i.ibb.co/RGSvFsBn/The-Horizon.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The House of God",
+      "image": "https://i.ibb.co/bgC193gP/The-House-of-God.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Magician",
+      "image": "https://i.ibb.co/JjjKCv2y/The-Magician.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Moon",
+      "image": "https://i.ibb.co/FqqNRd9T/The-Moon.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Night Owl",
+      "image": "https://i.ibb.co/Lhhwd7Ns/The-NIght-Owl.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Star",
+      "image": "https://i.ibb.co/XxfY4T7t/The-Star-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Sun Sigil",
+      "image": "https://i.ibb.co/67W0nQp5/The-Sun-Sigil.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Tower",
+      "image": "https://i.ibb.co/qYhnB64x/The-Tower.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Tradition",
+      "image": "https://i.ibb.co/MvkCbm5/The-Tradition.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The World",
+      "image": "https://i.ibb.co/5xWQzyQF/The-World.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
     }
   ],
   "Minor": [
     {
       "name": "Ace of Swords",
-      "image": "https://i.ibb.co/qLDGyYNk/Swords-1.png",
+      "image": "https://i.ibb.co/k2b3BpBH/Ace-of-Swords.jpg",
       "represents": {
         "planet": "",
         "zodiac": "",
@@ -612,7 +821,7 @@
     },
     {
       "name": "Page of Swords",
-      "image": "https://i.ibb.co/MDrZsnxC/Page-of-Swords.png",
+      "image": "https://i.ibb.co/G3V6vY3B/Page-of-Swords.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Capricorn, Pisces",
@@ -631,7 +840,7 @@
     },
     {
       "name": "Knight of Swords",
-      "image": "https://i.ibb.co/TdSpY9Z/Knight-of-Swords.png",
+      "image": "https://i.ibb.co/yBqHGKqn/Knight-of-Swords-LOST.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Gemini, Taurus",
@@ -650,7 +859,7 @@
     },
     {
       "name": "Queen of Swords",
-      "image": "https://i.ibb.co/5hSJ3wbQ/Queen-of-Swords.png",
+      "image": "https://i.ibb.co/R4VsQrwv/Queen-of-Swords.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Libra, Virgo",
@@ -669,7 +878,7 @@
     },
     {
       "name": "King of Swords",
-      "image": "https://i.ibb.co/BKZdPRM1/King-of-Swords.png",
+      "image": "https://i.ibb.co/zHxn4bsN/King-of-Swords-LOST.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Aquarius, Capricorn",
@@ -688,7 +897,7 @@
     },
     {
       "name": "Ace of Cups",
-      "image": "https://i.ibb.co/GfmnN8Rq/Ace-of-Cups.png",
+      "image": "https://i.ibb.co/V0nvwrfV/Ace-of-Cups.jpg",
       "represents": {
         "planet": "",
         "zodiac": "",
@@ -878,7 +1087,7 @@
     },
     {
       "name": "Page of Cups",
-      "image": "https://i.ibb.co/8L72Kh02/Page-of-Cups.png",
+      "image": "https://i.ibb.co/KcWh2CPz/Page-of-Cups-LOST.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Libra, Sagittarius",
@@ -897,7 +1106,7 @@
     },
     {
       "name": "Knight of Cups",
-      "image": "https://i.ibb.co/nNCs88Tm/Knight-of-Cups.png",
+      "image": "https://i.ibb.co/VcRTMkBJ/Knight-of-Cups.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Pisces, Aquarius",
@@ -916,7 +1125,7 @@
     },
     {
       "name": "Queen of Cups",
-      "image": "https://i.ibb.co/397gvvhL/Queen-of-Cups.png",
+      "image": "https://i.ibb.co/sdC0RnfB/Queen-of-Cups.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Cancer, Gemini",
@@ -935,7 +1144,7 @@
     },
     {
       "name": "King of Cups",
-      "image": "https://i.ibb.co/4nGbhrWF/King-of-Cups.png",
+      "image": "https://i.ibb.co/PB01zGy/King-of-Cups.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Scorpio, Libra",
@@ -954,7 +1163,7 @@
     },
     {
       "name": "Ace of Wands",
-      "image": "https://i.ibb.co/xtHqdDHn/Wands-1.png",
+      "image": "https://i.ibb.co/n8nvrw3N/Ace-of-Wands.jpg",
       "represents": {
         "planet": "",
         "zodiac": "",
@@ -1124,8 +1333,8 @@
       }
     },
     {
-      "name": "Ten of Wands",
-      "image": "https://i.ibb.co/JW65cjrm/Wands-10.png",
+      "name": "Ten of Eyes",
+      "image": "https://i.ibb.co/YFbQtPyb/Ten-of-Eyes.jpg",
       "represents": {
         "planet": "Saturn",
         "zodiac": "Sagittarius",
@@ -1144,7 +1353,7 @@
     },
     {
       "name": "Page of Wands",
-      "image": "https://i.ibb.co/VWww2GQY/Page-of-Wands.png",
+      "image": "https://i.ibb.co/Xx4mM04f/Page-of-Wands-LOST.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Cancer, Virgo",
@@ -1163,7 +1372,7 @@
     },
     {
       "name": "Knight of Wands",
-      "image": "https://i.ibb.co/JjW8dMF5/Knight-of-Wands.png",
+      "image": "https://i.ibb.co/fY7ZjCRk/Knight-of-Wands.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Sagittarius, Scorpio",
@@ -1182,7 +1391,7 @@
     },
     {
       "name": "Queen of Wands",
-      "image": "https://i.ibb.co/qLSVWPFp/Queen-of-Wands.png",
+      "image": "https://i.ibb.co/q3h3Nzjz/Queen-of-Wands.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Aries, Pisces",
@@ -1201,7 +1410,7 @@
     },
     {
       "name": "King of Wands",
-      "image": "https://i.ibb.co/4gjM1pTb/King-of-Wands.png",
+      "image": "https://i.ibb.co/tTWzMN5j/King-of-Wands.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Leo, Cancer",
@@ -1219,8 +1428,8 @@
       }
     },
     {
-      "name": "Ace of Pentacles",
-      "image": "https://i.ibb.co/XxHf3mWt/Pentacles-1.png",
+      "name": "Ace of Disks",
+      "image": "https://i.ibb.co/FkMVVXqG/Ace-of-Disks.jpg",
       "represents": {
         "planet": "",
         "zodiac": "",
@@ -1238,8 +1447,8 @@
       }
     },
     {
-      "name": "Two of Pentacles",
-      "image": "https://i.ibb.co/wFbZzVN0/Pentacles-2.png",
+      "name": "Two of Whips",
+      "image": "https://i.ibb.co/HLQzvbw7/Two-of-Whips.jpg",
       "represents": {
         "planet": "Jupiter",
         "zodiac": "Capricorn",
@@ -1257,8 +1466,8 @@
       }
     },
     {
-      "name": "Three of Pentacles",
-      "image": "https://i.ibb.co/yBxH4rST/Pentacles-3.png",
+      "name": "Three of Books",
+      "image": "https://i.ibb.co/8nshqvQt/Three-of-Books.jpg",
       "represents": {
         "planet": "Mars",
         "zodiac": "Capricorn",
@@ -1314,8 +1523,8 @@
       }
     },
     {
-      "name": "Six of Pentacles",
-      "image": "https://i.ibb.co/gLKkvD7j/Pentacles-6.png",
+      "name": "Six of Inking Balls",
+      "image": "https://i.ibb.co/tTJGB3Lz/Six-of-Inking-Balls.jpg",
       "represents": {
         "planet": "Moon",
         "zodiac": "Taurus",
@@ -1333,8 +1542,8 @@
       }
     },
     {
-      "name": "Seven of Pentacles",
-      "image": "https://i.ibb.co/ymnPxhCG/Pentacles-7.png",
+      "name": "Seven of Bells",
+      "image": "https://i.ibb.co/CpLLFj51/Seven-of-Bells.jpg",
       "represents": {
         "planet": "Saturn",
         "zodiac": "Taurus",
@@ -1371,8 +1580,8 @@
       }
     },
     {
-      "name": "Nine of Pentacles",
-      "image": "https://i.ibb.co/XkCKRrgq/Pentacles-9.png",
+      "name": "Nine of Clocks",
+      "image": "https://i.ibb.co/P032LvB/Nine-of-Clocks.jpg",
       "represents": {
         "planet": "Venus",
         "zodiac": "Virgo",
@@ -1390,8 +1599,8 @@
       }
     },
     {
-      "name": "Ten of Pentacles",
-      "image": "https://i.ibb.co/jvBt6zQp/Pentacles-10.png",
+      "name": "Ten of Attention",
+      "image": "https://i.ibb.co/QjzDvrrS/Ten-of-Attention-LOST.jpg",
       "represents": {
         "planet": "Mercury",
         "zodiac": "Virgo",
@@ -1410,7 +1619,7 @@
     },
     {
       "name": "Page of Pentacles",
-      "image": "https://i.ibb.co/XxqtBkTQ/Page-of-Pentacles.png",
+      "image": "https://i.ibb.co/wZPy4LDB/Page-of-Pentacles.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Aries, Gemini",
@@ -1428,8 +1637,8 @@
       }
     },
     {
-      "name": "Knight of Pentacles",
-      "image": "https://i.ibb.co/wZbkS76W/Knight-of-Pentacles.png",
+      "name": "Knight of Rings",
+      "image": "https://i.ibb.co/HpNnhSj1/Knight-of-Rings.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Virgo, Leo",
@@ -1448,7 +1657,7 @@
     },
     {
       "name": "Queen of Pentacles",
-      "image": "https://i.ibb.co/xS7d6ykv/Queen-of-Pentacles.png",
+      "image": "https://i.ibb.co/NGwpNFF/Queen-of-Pentacles.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Capricorn, Sagittarius",
@@ -1466,8 +1675,8 @@
       }
     },
     {
-      "name": "King of Pentacles",
-      "image": "https://i.ibb.co/KxYYLqD5/King-of-Pentacles.png",
+      "name": "King of Coins",
+      "image": "https://i.ibb.co/HLdWKKdQ/King-of-Coins.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Taurus, Aries",
@@ -1483,7 +1692,1433 @@
         "tags": "Tyranny, stubbornness, poor financial decisions, mismanagement, rigidity, avarice, risk, imprudence",
         "description": "The King of Pentacles warns of mismanagement of resources or an overemphasis on material control."
       }
+    },
+    {
+      "name": "Keeper of Swords",
+      "image": "https://i.ibb.co/cccpwRhw/Keeper-of-Swords-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "King of Pentacles",
+      "image": "https://i.ibb.co/mC7qrY9K/King-of-Pentacles-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Knight of Swords",
+      "image": "https://i.ibb.co/mFqLhDQN/Knight-of-Swords.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Page of Cups",
+      "image": "https://i.ibb.co/zw2RjDF/Page-of-Cups.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Page of Curses",
+      "image": "https://i.ibb.co/gb94QBD9/Page-of-Curses-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Queen of Ravens",
+      "image": "https://i.ibb.co/3ymS8rcR/Queen-of-Ravens-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Queen of Strays",
+      "image": "https://i.ibb.co/TMyc2tvV/Queen-of-Strays-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "King of Flint",
+      "image": "https://i.ibb.co/TBg0pbmB/Tecpatecuhtli-The-King-of-Flint-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Queen of Bombs",
+      "image": "https://i.ibb.co/pjYxMDkH/The-Queen-of-Bombs.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
     }
   ],
-  "Oracle": []
+  "Oracle": [
+    {
+      "name": "9 of Games",
+      "image": "https://i.ibb.co/pBsPcNjw/9-of-Games-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Ace of Hounds",
+      "image": "https://i.ibb.co/7xfKYsTc/Ace-of-Hounds.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Bone Fire",
+      "image": "https://i.ibb.co/67Fv1qrg/Bone-Fire.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Dagaz",
+      "image": "https://i.ibb.co/4RLcHRMH/Dagaz.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Bloody Death",
+      "image": "https://i.ibb.co/RGrxnbdy/Death-Blood.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Bunny Death",
+      "image": "https://i.ibb.co/bRqr3ysD/Death-Bunny-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Dancing Death",
+      "image": "https://i.ibb.co/gFzHkdWH/Death-Dancing.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Motel Death",
+      "image": "https://i.ibb.co/HLS9fw2K/Death-Motel.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Burning Death",
+      "image": "https://i.ibb.co/tMcKvMvd/Death-Fire.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Mourning Death",
+      "image": "https://i.ibb.co/Ndj3d6YH/Death-Mourning-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Digging Death",
+      "image": "https://i.ibb.co/ZRzWZF4L/Death-Shovel.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Smoking Death",
+      "image": "https://i.ibb.co/KpcZ639Y/Death-Smoking-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Sowing Death",
+      "image": "https://i.ibb.co/XrkgnVHP/Death-Sowing.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Stubborn Death",
+      "image": "https://i.ibb.co/DfcNftvy/Death-Stubborn.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Devil",
+      "image": "https://i.ibb.co/VYj5DXGd/Devil-1.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Deconsecration",
+      "image": "https://i.ibb.co/mrMTj5r3/Deconsecration.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Devil With Snakes For Dicks",
+      "image": "https://i.ibb.co/FqnxWpMm/Devil-With-Snakes-For-Dicks-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "8 of Tentacles",
+      "image": "https://i.ibb.co/G4x9cf0h/Eight-of-Tentacles.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Father Sleep",
+      "image": "https://i.ibb.co/1fPJqVqf/Father-Sleep.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Fear",
+      "image": "https://i.ibb.co/4ZZX8ML1/Fear.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "5 of Mirrors",
+      "image": "https://i.ibb.co/Lzv34mF9/Five-of-Mirrors.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "4 of Keys",
+      "image": "https://i.ibb.co/TBzdNJMc/Four-of-Keys.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Frost",
+      "image": "https://i.ibb.co/bgXP6rr9/Frost.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Giuseppe",
+      "image": "https://i.ibb.co/JR77nwLw/Giuseppe.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Hand of the Hunter",
+      "image": "https://i.ibb.co/CpGTvCBs/Hand-of-the-Hunter-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Happy Squirrel",
+      "image": "https://i.ibb.co/cc32TKdp/Happy-Squirrel-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Heirophant",
+      "image": "https://i.ibb.co/0yKQqvFM/Hierophant-Divine.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Hope",
+      "image": "https://i.ibb.co/fYsJP3xX/Hope.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Judgement",
+      "image": "https://i.ibb.co/6Jc3sGfW/Judgement.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Judgement",
+      "image": "https://i.ibb.co/hF8hYK5F/Judgement-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Justice",
+      "image": "https://i.ibb.co/TBH3y6J4/Justice-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Lightning In A Bottle",
+      "image": "https://i.ibb.co/GQZPZ1j3/Lightning-In-A-Bottle-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "image": "https://i.ibb.co/RGxb7GWW/Ouroboros-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Paimon",
+      "image": "https://i.ibb.co/bg6k5wGJ/Paimon.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Publishing Goblin",
+      "image": "https://i.ibb.co/pv7NvvQH/Publishing-Goblin-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Allbright",
+      "image": "https://i.ibb.co/QFnbStgg/The-Allbright-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Alley",
+      "image": "https://i.ibb.co/JRWCpds6/The-Alley-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Alleyman",
+      "image": "https://i.ibb.co/Vc6YZNPY/The-Alleyman-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Battle",
+      "image": "https://i.ibb.co/ZpKZNxFd/The-Battle.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Black Moon",
+      "image": "https://i.ibb.co/DDRspY2b/The-Black-Moon.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Builder",
+      "image": "https://i.ibb.co/6J0mzX2q/The-Builder.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Bogeyman",
+      "image": "https://i.ibb.co/8gtq6Fwq/The-Bogeyman.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Comforter",
+      "image": "https://i.ibb.co/vxmzLYyw/The-Comforter.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Dark Sun",
+      "image": "https://i.ibb.co/vxrYc6XB/The-Dark-Sun.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Empress",
+      "image": "https://i.ibb.co/CK8rQm7D/The-Empress.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Empty",
+      "image": "https://i.ibb.co/7tLcfPBd/The-Empty.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Final Tarot",
+      "image": "https://i.ibb.co/7xR73wg9/The-Final-Tarot.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Fountain",
+      "image": "https://i.ibb.co/cSqRLXh0/The-Fountain.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Gloaming",
+      "image": "https://i.ibb.co/N68C5dRR/The-Gloaming-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Hole",
+      "image": "https://i.ibb.co/S4pmkZzV/The-Hole.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Joker",
+      "image": "https://i.ibb.co/6cmcbN48/The-Joker-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Joker",
+      "image": "https://i.ibb.co/pBqqhHCB/The-Joker.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Last Round",
+      "image": "https://i.ibb.co/244xJYs/The-Last-Round-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Letter",
+      "image": "https://i.ibb.co/fVBhRwRZ/The-Letter.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Lone And Level Sands",
+      "image": "https://i.ibb.co/W4j76X0W/The-Lone-And-Level-Sands.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Lovers",
+      "image": "https://i.ibb.co/JRTK1Sq6/The-Lovers-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Masterless Knight",
+      "image": "https://i.ibb.co/gbQLGC51/The-Masterless-Knight.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Performer",
+      "image": "https://i.ibb.co/k2sTWCqs/The-Performer.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Relic",
+      "image": "https://i.ibb.co/r2w6qVRY/The-Relic-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Storyteller",
+      "image": "https://i.ibb.co/7dQg4WNT/The-Storyteller-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Thing Among Reflections",
+      "image": "https://i.ibb.co/XkKF2MQ6/The-Thing-Among-Reflections.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Traitor",
+      "image": "https://i.ibb.co/wN0q1Rf9/The-Traitor.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Undaunted",
+      "image": "https://i.ibb.co/xKpxf2mD/The-Undaunted.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Wound Man",
+      "image": "https://i.ibb.co/4ZNyTgGw/The-Wound-Man.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Time Machine",
+      "image": "https://i.ibb.co/1J2dgXkH/Time-Machine-LOST.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Weird-Ass Mystical Shit",
+      "image": "https://i.ibb.co/Mxc6L23Y/Weird-Ass-Mystical-Shit.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    }
+  ]
 }
