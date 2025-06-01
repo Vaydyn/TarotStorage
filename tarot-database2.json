@@ -115,7 +115,7 @@
       }
     },
     {
-      "name": "The Lovers",
+      "name": "The Lovers (Separated)",
       "image": "https://i.ibb.co/4ZTY5Y9j/The-Lovers.jpg",
       "represents": {
         "planet": "",
@@ -305,7 +305,7 @@
       }
     },
     {
-      "name": "The Tower",
+      "name": "The (PC) Tower",
       "image": "https://i.ibb.co/CDC2wgm/The-Tower-LOST.jpg",
       "represents": {
         "planet": "",
@@ -324,7 +324,7 @@
       }
     },
     {
-      "name": "The Star",
+      "name": "The Star (Bright)",
       "image": "https://i.ibb.co/67VvtLK8/The-Star.jpg",
       "represents": {
         "planet": "",
@@ -343,7 +343,7 @@
       }
     },
     {
-      "name": "The Moon",
+      "name": "The Moon (Teacher)",
       "image": "https://i.ibb.co/4nXyWkrX/The-Moon-LOST.jpg",
       "represents": {
         "planet": "",
@@ -476,7 +476,7 @@
       }
     },
     {
-      "name": "The Magician",
+      "name": "The Magician (Dark)",
       "image": "https://i.ibb.co/JjjKCv2y/The-Magician.jpg",
       "represents": {
         "planet": "",
@@ -668,7 +668,7 @@
       }
     },
     {
-      "name": "Knight of Swords",
+      "name": "Knight of Swords (Ally)",
       "image": "https://i.ibb.co/yBqHGKqn/Knight-of-Swords-LOST.jpg",
       "represents": {
         "planet": "",
@@ -1200,7 +1200,7 @@
       }
     },
     {
-      "name": "Page of Cups",
+      "name": "Page of Cups (Child)",
       "image": "https://i.ibb.co/zw2RjDF/Page-of-Cups.jpg",
       "represents": {
         "planet": "",
@@ -1582,7 +1582,7 @@
       }
     },
     {
-      "name": "The Devil",
+      "name": "The Inner Devil",
       "image": "https://i.ibb.co/VYj5DXGd/Devil-1.jpg",
       "represents": {
         "planet": "",
@@ -1810,7 +1810,7 @@
       }
     },
     {
-      "name": "The Heirophant",
+      "name": "The Hierophant (Feminine)",
       "image": "https://i.ibb.co/0yKQqvFM/Hierophant-Divine.jpg",
       "represents": {
         "planet": "",
@@ -1848,7 +1848,7 @@
       }
     },
     {
-      "name": "Judgement",
+      "name": "Judgement (Phoenix)",
       "image": "https://i.ibb.co/6Jc3sGfW/Judgement.jpg",
       "represents": {
         "planet": "",
@@ -1867,7 +1867,7 @@
       }
     },
     {
-      "name": "Judgement",
+      "name": "Judgement (Bright)",
       "image": "https://i.ibb.co/hF8hYK5F/Judgement-LOST.jpg",
       "represents": {
         "planet": "",
@@ -2266,7 +2266,7 @@
       }
     },
     {
-      "name": "The Joker",
+      "name": "The Joker (Puppet)",
       "image": "https://i.ibb.co/6cmcbN48/The-Joker-LOST.jpg",
       "represents": {
         "planet": "",
